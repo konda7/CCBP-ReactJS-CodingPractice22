@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.content-container {
+  padding: 100px 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img {
+  height: 150px;
+  width: 150px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #6d396b;
+}
